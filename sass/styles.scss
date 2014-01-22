@@ -58,6 +58,7 @@ table {
   margin-top:0px;
   font-family: Helvetica;
   font-size:80%;
+  height:40px;
   & li {
     float:left;
     padding:10px 10px;
@@ -98,4 +99,10 @@ table {
   text-align:right;
   float:right;
   display:inline;
+}
+
+// b shows the 45-75 charcter threshold to keep in mind.
+b {
+  color:#000;
+  font-weight:800;
 }
