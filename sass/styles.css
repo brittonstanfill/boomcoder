@@ -50,7 +50,7 @@ table {
   margin-top: 0px;
   font-family: Helvetica;
   font-size: 80%;
-  height: 40px; }
+  height: 30px; }
   #nav li {
     float: left;
     padding: 10px 10px; }
@@ -70,7 +70,7 @@ table {
 .container {
   display: flex;
   flex-direction: column;
-  width: 85%;
+  width: 80%;
   max-width: 800px;
   margin: 0 auto; }
 
